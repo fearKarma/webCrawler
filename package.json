@@ -1,0 +1,38 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "WebCrawler Project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fearKarma/webCrawler.git"
+  },
+  "keywords": [
+    "Alabama",
+    "Jamma",
+    "Slim",
+    "Toasty",
+    "Handsome",
+    "Jungle",
+    "Frederik",
+    "Knudsen",
+    "Ghoul",
+    "Theory",
+    "Extend",
+    "For",
+    "Jiggles"
+  ],
+  "author": "Sir Anferny Carbuncle III the II Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fearKarma/webCrawler/issues"
+  },
+  "homepage": "https://github.com/fearKarma/webCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
